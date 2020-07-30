@@ -9,7 +9,9 @@ header {
 figure {
   text-align:center;
 }
-
+figcaption {
+  font-size: 8;
+}
 a {
   padding: 0 10px 0 10px;
   background-color: grey;
