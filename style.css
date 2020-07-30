@@ -16,12 +16,11 @@ a {
   padding: 0 10px 0 10px;
   background-color: grey;
 }
-#featured-property {
-  text-align: center;
-}
 #featured-property p{
   width: 800px;
   text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 #details {
   display: block;
